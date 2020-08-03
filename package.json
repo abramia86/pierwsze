@@ -1,0 +1,26 @@
+{
+  "name": "learning-git-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "validate": "node_modules/.bin/html-validate index.html"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abramia86/pierwsze.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abramia86/pierwsze/issues"
+  },
+  "homepage": "https://github.com/abramia86/pierwsze#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "html-validate": "^3.0.0"
+  }
+}
